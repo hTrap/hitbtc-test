@@ -1,0 +1,22 @@
+{
+  "name": "hitbtc-test",
+  "version": "1.0.0",
+  "description": "Testing of hitbtc API's.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hTrap/hitbtc-test.git"
+  },
+  "author": "ITH Technologies",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hTrap/hitbtc-test/issues"
+  },
+  "homepage": "https://github.com/hTrap/hitbtc-test#readme",
+  "dependencies": {
+    "hitbtc-api": "^3.0.2"
+  }
+}
